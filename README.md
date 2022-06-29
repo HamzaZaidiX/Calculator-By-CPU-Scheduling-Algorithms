@@ -2,7 +2,7 @@
 This is my University Project from Opreating Systems Course Final Project Completely Made of Java Swing, Some XML
 This is a Simple Calculator calculates the values and create a **Gantt chart** of Scheduling Algorithms are **FCFS, SJF, Round Robin & Priority Algorithms**
 
-**Note:** You have to download the Zip file I have provided and don't worry there are no errors in my project will run properly 👆
+**Note:** You have to download the `Zip file` & Extract in your machine also don't worry there are no Errors in my Project will Run properly 👆
 
 # Output ScreenShots: 
 ![01](https://user-images.githubusercontent.com/52501040/175822074-d5c7c135-d628-4801-b55a-b5c43e71a7d2.PNG)
@@ -10,4 +10,11 @@ This is a Simple Calculator calculates the values and create a **Gantt chart** o
 ![03](https://user-images.githubusercontent.com/52501040/175822076-45077457-ede9-4544-a8da-1ed232098053.PNG)
 ![04](https://user-images.githubusercontent.com/52501040/175822078-8a9b1896-ebef-47b0-86ef-a5e486358718.PNG)
 
-PLEASE! IF YOU ARE USING THIS CODE PLEASE GIVE **HAMZA ZAIDI** SOME CREDITS BY LIKE & GIVE A HEART!!! 😃👍💛
+# Licence
+
+MIT LICENCE
+Read `Licence` document for more details
+
+# Bye! 👋
+
+HOPE U LIKE THIS PROJECT PLEASE! IF YOU ARE USING THIS CODE PLEASE GIVE **HAMZA ZAIDI** SOME CREDITS BY LIKE & GIVE A HEART!!! 😃👍💛
